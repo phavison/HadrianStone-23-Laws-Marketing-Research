@@ -19,3 +19,7 @@ Each paper links back to its official DOI for citation, ensuring these works can
 ## Why This Repo Matters
 This isn't marketing theory for classrooms. This is marketing strategy for war rooms. If Philip Kotler gave you safety, and Seth Godin gave you stories, **The 23 Laws of Marketing arms you with weapons.**
 *"Master Them or Die" isn't a metaphor. It's a manifesto.*
+## How to Cite
+If you use or reference this work, please cite: Stone, H. (2025). *The 23 Laws of Marketing Research Archive*. GitHub. https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research
+## Keywords
+Marketing Strategy, Machiavelli, Philip Kotler, Al Ries & Jack Trout, Seth Godin, Robert Greene, The 48 Laws of Power, The 22 Immutable Laws of Marketing, Purple Cow, Dark Marketing Strategy, Hadrian Stone, The 23 Laws of Marketing: Master Them or Die, Consumer Behavior, Business, Entrepreneur, Academic Research, Modern Marketing, Digital Marketing, Content Marketing, Economics, Marketing Books, Best Marketing Books, Marketing Theory, Influence, Manipulation, Persuasion, Positioning, Scarcity, Marketing Philosophy, AI in Marketing, Attention Economy, Marketing Psychology, Entrepreneurship
