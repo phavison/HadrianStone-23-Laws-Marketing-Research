@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite:"
+title: "HadrianStone-23-Laws-Marketing-Research"
+authors:
+- family-names: Stone
+given-names: Hadrian
+keywords:
+- marketing strategy
+- Machiavelli
+- Kotler
+- Ries & Trout
+- Seth Godin
+- Robert Greene
+- attention economy
+- dark academia
+version: "2025.10.03"
+date-released: 2025-10-03
+url: https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research
+identifiers:
+- type: doi
+value: 10.6084/m9.figshare.30261061
+- type: doi
+value: 10.6084/m9.figshare.30162865
+- type: doi
+value: 10.6084/m9.figshare.30214243
+- type: doi
+value: 10.6084/m9.figshare.30172726
+- type: doi
+value: 10.6084/m9.figshare.30122830
