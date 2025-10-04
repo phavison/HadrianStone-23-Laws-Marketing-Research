@@ -1,8 +1,11 @@
 # HadrianStone-23-Laws-Marketing-Research
+[![Stars](https://img.shields.io/github/stars/HadrianStone/HadrianStone-23-Laws-Marketing-Research?style=social)](https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/HadrianStone/HadrianStone-23-Laws-Marketing-Research)](https://gitbub.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research/commits/main)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HadrianStone.HadrianStone-23-Laws-Marketing-Research)](https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research)
 Academic papers and Machiavellian marketing research by Hadrian Stone. Positioning against Kotler, Ries &amp; Trout, Godin, and Greene.
 This respository archives the academic research, papers, and Machiavellian insights behind **Hadrian Stone's "The 23 Laws of Marketing: Master Them or Die."**
 ## Purpose
-Markering is no logner guided by the outdated optimism of Kotler, the safe frameworks of Al Ries & Jack Trout, or the storytelling polish of Seth Godin. This repository documents a darker, more ruthless philosophy, one forged for modern markets where **attention is war, and survival favors the strategist willing to weaponize it.**
+Markering is no longer guided by the outdated optimism of Kotler, the safe frameworks of Al Ries & Jack Trout, or the storytelling polish of Seth Godin. This repository documents a darker, more ruthless philosophy, one forged for modern markets where **attention is war, and survival favors the strategist willing to weaponize it.**
 ## Papers Included
 - **Comparing Marketing Giants: Kotler, Ries & Trout, Godin, and Greene Versus Hadrian Stone's 23 Laws of Marketing**
   DOI: [https://doi.org/10.6084/m9.figshare.30261061](https://doi.org/10.6084/m9.figshare.30261061)
