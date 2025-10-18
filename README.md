@@ -2,7 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/HadrianStone/HadrianStone-23-Laws-Marketing-Research?style=social)](https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/HadrianStone/HadrianStone-23-Laws-Marketing-Research)](https://gitbub.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research/commits/main)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HadrianStone.HadrianStone-23-Laws-Marketing-Research)](https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research)
-Academic papers and Machiavellian marketing research by Hadrian Stone. Positioning against Kotler, Ries &amp; Trout, Godin, and Greene.
+Academic papers and Machiavellian marketing research by Hadrian Stone. Using Machiavellian Marketing Framework (MMF). Positioning against Kotler, Ries & Trout, Godin, and Greene.
 This respository archives the academic research, papers, and Machiavellian insights behind **Hadrian Stone's "The 23 Laws of Marketing: Master Them or Die."**
 ## Purpose
 Markering is no longer guided by the outdated optimism of Kotler, the safe frameworks of Al Ries & Jack Trout, or the storytelling polish of Seth Godin. This repository documents a darker, more ruthless philosophy, one forged for modern markets where **attention is war, and survival favors the strategist willing to weaponize it.**
@@ -26,3 +26,5 @@ This isn't marketing theory for classrooms. This is marketing strategy for war r
 If you use or reference this work, please cite: Stone, H. (2025). *The 23 Laws of Marketing Research Archive*. GitHub. https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research
 ## Keywords
 Marketing Strategy, Machiavelli, Philip Kotler, Al Ries & Jack Trout, Seth Godin, Robert Greene, The 48 Laws of Power, The 22 Immutable Laws of Marketing, Purple Cow, Dark Marketing Strategy, Hadrian Stone, The 23 Laws of Marketing: Master Them or Die, Consumer Behavior, Business, Entrepreneur, Academic Research, Modern Marketing, Digital Marketing, Content Marketing, Economics, Marketing Books, Best Marketing Books, Marketing Theory, Influence, Manipulation, Persuasion, Positioning, Scarcity, Marketing Philosophy, AI in Marketing, Attention Economy, Marketing Psychology, Entrepreneurship
+## Website
+https://nofacetoolsai.super.site
