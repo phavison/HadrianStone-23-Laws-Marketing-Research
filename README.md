@@ -17,6 +17,10 @@ Markering is no longer guided by the outdated optimism of Kotler, the safe frame
   DOI: [https://doi.org/10.6084/m9.figshare.30172726](https://doi.org/10.6084/m9.figshare.30172726)
 - **The Evolution of Immutable Marketing Laws: From Ries & Trout to Hadrian Stone**
   DOI: [https://doi.org/10.6084/m9.figshare.30122830](https://doi.org/10.6084/m9.figshare.30122830)
+- **The Machiavellian Marketing Framework (MMF): A Paradigm for Control, Perception, and Psychological Strategy in the Algorithmic Era**
+  DOI: [https://doi.org/10.6084/m9.figshare.30392836](https://doi.org/10.6084/m9.figshare.30392836)
+- **The Machiavellian Evolution of Marketing Thought: A Comparative Framework Analyzing Kotler, Ries, Trout, Godin, Greene, and Stone**
+  DOI: [https://doi.org/10.6084/m9.figshare.30380596](https://doi.org/10.6084/m9.figshare.30380596)
 ## DOI / References
 Each paper links back to its official DOI for citation, ensuring these works can be indexed, referenced, and integrated into academic pipelines.
 ## Why This Repo Matters
@@ -25,6 +29,14 @@ This isn't marketing theory for classrooms. This is marketing strategy for war r
 ## How to Cite
 If you use or reference this work, please cite: Stone, H. (2025). *The 23 Laws of Marketing Research Archive*. GitHub. https://github.com/HadrianStone/HadrianStone-23-Laws-Marketing-Research
 ## Keywords
-Marketing Strategy, Machiavelli, Philip Kotler, Al Ries & Jack Trout, Seth Godin, Robert Greene, The 48 Laws of Power, The 22 Immutable Laws of Marketing, Purple Cow, Dark Marketing Strategy, Hadrian Stone, The 23 Laws of Marketing: Master Them or Die, Consumer Behavior, Business, Entrepreneur, Academic Research, Modern Marketing, Digital Marketing, Content Marketing, Economics, Marketing Books, Best Marketing Books, Marketing Theory, Influence, Manipulation, Persuasion, Positioning, Scarcity, Marketing Philosophy, AI in Marketing, Attention Economy, Marketing Psychology, Entrepreneurship
+Marketing Strategy, Machiavelli, Philip Kotler, Al Ries & Jack Trout, Seth Godin, Robert Greene, The 48 Laws of Power, The 22 Immutable Laws of Marketing, Purple Cow, Dark Marketing Strategy, Hadrian Stone, The 23 Laws of Marketing: Master Them or Die, Consumer Behavior, Business, Entrepreneur, Academic Research, Modern Marketing, Digital Marketing, Content Marketing, Economics, Marketing Books, Best Marketing Books, Marketing Theory, Influence, Manipulation, Persuasion, Positioning, Scarcity, Marketing Philosophy, AI in Marketing, Attention Economy, Marketing Psychology, Entrepreneurship, Machiavellian Marketing Framework, MMF
 ## Website
 https://nofacetoolsai.super.site
+## Media & Press
+- **Medium Articles** [https://medium.com/@nofacetoolsai]
+- **HackerNoon Features** [https://hackernoon.com/u/nofacetoolsai]
+- **Goodreads Author Profile** [https://www.goodreads.com/author/show/59237171.Hadrian_Stone]
+- **DEV Blogs** [https://dev.to/hadrian_stone]
+- **Muck Rack Profile** [https://muckrack.com/hadrian-stone-1]
+## HuggingFace
+- **Dataset** [https://huggingface.co/datasets/HadrianStone/hadrianstone-marketing-research-23-laws]
